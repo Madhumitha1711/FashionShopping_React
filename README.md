@@ -1,7 +1,7 @@
 ## Shopping Portfolio
 
-This is shopping portfolio project built using react and used redux for state management.
-Firebase is used for backend authentication and Firestore is used as database
+This is shopping portfolio project built using react library and used redux is used for state management.
+Firebase Authentication is used for backend authentication functionality . Firestore is used as database .
 
 ## How to run
 
