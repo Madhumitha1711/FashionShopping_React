@@ -9,5 +9,5 @@ To start the server and serve the pages run `npm start`
 ## Set your firebase config
 Remember to replace the `config` variable in your `firebase.utils.js` with your own config object from the firebase dashboard! Navigate to the project settings and scroll down to the config code. Copy the object in the code and replace the variable in your cloned code.
 
-![alt text]("/React_snapshots/Screenshot 2020-10-25 at 8.06.54 PM.png")
+![image]("/React_snapshots/Screenshot 2020-10-25 at 8.06.54 PM.png")
 
