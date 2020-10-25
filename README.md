@@ -21,7 +21,10 @@ The application lets user shop online for choths anf fashion accessories for men
 ![Home page](./screenshots/homePage.png)
 
 3.Product page with add to cart functionality.
-![Product page](./screenshots/productPage.png)
+![Product page](./screenshots/showcart.png)
+
+4.Checkout page
+![checkout page](./screenshots/checkoutPage.png)
 
 ## Technologies
 * React 16.8.6
@@ -45,11 +48,11 @@ List of features ready and TODOs for future development
 * Login/sign up Functionality is implemented
 * List of all available categories are fetched  
 * Products are loaded based on selected category
-* Add to cart functionality and cart summary page is implemented.
+* Add to cart functionality and checkout page is implemented.
 
 To-do list:
 * Integrate app with firebase
-* Integrate stripe payment with checkout functionality
+* Integrate stripe payment with checkout page.
 
 ## Status
 Project is: _in progress
