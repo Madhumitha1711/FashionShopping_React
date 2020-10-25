@@ -21,7 +21,7 @@ The application lets user shop online for choths anf fashion accessories for men
 ![Home page](./screenshots/homePage.png)
 
 3.Product page with add to cart functionality.
-![Product page](./screenshots/showcart.png)
+![Product page](./screenshots/showCart.png)
 
 4.Checkout page
 ![checkout page](./screenshots/checkoutPage.png)
