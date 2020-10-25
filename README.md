@@ -45,13 +45,14 @@ To start the server and serve the pages run `npm start`.
 
 ## Features
 List of features ready and TODOs for future development
-* Login/sign up Functionality is implemented
-* List of all available categories are fetched  
-* Products are loaded based on selected category
+* Login/sign up functionality is implemented.
+* List of all available product categories are fetched.
+* Products are loaded based on selected category.
 * Add to cart functionality and checkout page is implemented.
 
 To-do list:
-* Integrate app with firebase
+* Integrate app with firebase.
+* Pages has to be made responsive.
 * Integrate stripe payment with checkout page.
 
 ## Status
