@@ -48,7 +48,6 @@ The application lets user shop online for clothes and fashion accessories for me
 
 * To start the server and serve the pages run `npm start`.
 
-
 ## Features
 
 List of features currently available to user,
